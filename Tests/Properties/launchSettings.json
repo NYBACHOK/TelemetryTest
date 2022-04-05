@@ -15,7 +15,7 @@
       "launchUrl": "weatherforecast",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "RAPLOG__APPLICATIONNAME": "APPLICATIONNAME",
+        "APPLICATIONNAME": "APPLICATIONNAME",
         "OTEL_COLLECTOR_ENDPOINT": "otelcollector:4317"
       }
     },
